@@ -35,14 +35,14 @@
 <br>
 <br>
 
-## ⚙️ &nbsp;GitHub Analytics
+<!-- ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=LucasMorais1998&show_icons=true&theme=vision-friendly-dark" alt=""/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMorais1998&layout=compact&theme=vision-friendly-dark" alt=""/>
 </p>
 
-<br><br>
+<br><br> -->
 
 
 
