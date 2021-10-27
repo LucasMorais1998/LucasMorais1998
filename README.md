@@ -26,7 +26,7 @@
 
 <br>
 
-## 🌍 &nbsp;Social Links
+<!-- ## 🌍 &nbsp;Social Links
 
 <a href="https://linkedin.com/in/lucas-santos-033304218/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -35,7 +35,7 @@
 <br>
 <br>
 
-<!-- ## ⚙️ &nbsp;GitHub Analytics
+ ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=LucasMorais1998&show_icons=true&theme=vision-friendly-dark" alt=""/>
