@@ -32,14 +32,15 @@
 <a href="https://linkedin.com/in/lucas-santos-033304218/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<!--
+
 <br>
 <br>
 
  ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=LucasMorais1998&show_icons=true&theme=vision-friendly-dark" alt=""/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMorais1998&layout=compact&theme=vision-friendly-dark" alt=""/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=LucasMorais1998&show_icons=true&theme=highcontrast" alt=""/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMorais1998&layout=compact&theme=highcontrast " alt=""/>
 </p>
+<!--
  -->
