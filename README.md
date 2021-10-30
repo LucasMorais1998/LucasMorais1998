@@ -29,7 +29,7 @@
  ## 🌍 &nbsp;Social Links
 
 
-<a href="https://linkedin.com/in/lucas-santos-033304218/" alt="linkedin badge" target="_blank">
+<a href="https://linkedin.com/in/lucas-santos-033304218/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <!--
