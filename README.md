@@ -1,6 +1,6 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Lucas Santos</h1>
 
-- 👉 I'm passionate about technology 💻, science 👨‍🔬 and games 🕹, and I'm learning programming through Rocketseat 🚀.
+- 👉 I'm passionate about technology 💻, science 👨‍🔬 and games 🎮, and I'm learning programming through Rocketseat 🚀.
 
 - 🔭 My focus is on knowledge and learning, looking to become a Full Stack developer!
 <br><br>
