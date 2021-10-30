@@ -25,7 +25,7 @@
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 <br>
-
+<!--
  ## 🌍 &nbsp;Social Links
 
 
@@ -42,5 +42,5 @@
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=LucasMorais1998&show_icons=true&theme=chartreuse-dark" alt=""/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMorais1998&layout=compact&theme=chartreuse-dark" alt=""/>
 </p>
-<!--
- -->
+-->
+ 
