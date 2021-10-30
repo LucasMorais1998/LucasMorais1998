@@ -39,8 +39,8 @@
  ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=LucasMorais1998&show_icons=true&theme=highcontrast" alt=""/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMorais1998&layout=compact&theme=highcontrast " alt=""/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=LucasMorais1998&show_icons=true&theme=chartreuse-dark" alt=""/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMorais1998&layout=compact&theme=chartreuse-dark" alt=""/>
 </p>
 <!--
  -->
