@@ -3,11 +3,11 @@
 - 👉 I'm passionate about technology 💻, science 👨‍🔬 and games 🎮, and I'm learning programming through Rocketseat 🚀.
 
 - 🔭 My focus is on knowledge 📚 and learning 👨🏼‍🎓, looking to become a Full Stack Developer!
-
-- 🤩 I will still visit Tomorrowland! Someday 😂
+<br><br>
+<!--- 🤩 I will visit Tomorrowland! Someday 😂
 <br><br>
 
-<!-- ## 👨‍💻 &nbsp;I have experience
+ ## 👨‍💻 &nbsp;I have experience
 <br> -->
 
 ## 📚 &nbsp;I'm studying
