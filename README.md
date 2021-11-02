@@ -2,8 +2,10 @@
 
 - 👉 I'm passionate about technology 💻, science 👨‍🔬 and games 🎮, and I'm learning programming through Rocketseat 🚀.
 
-- 🔭 My focus is on knowledge and learning, looking to become a Full Stack developer!
+- 🔭 My focus is on knowledge 📚 and learning 👨🏼‍🎓, looking to become a Full Stack Developer!
 <br><br>
+
+- 🤩 I will still visit Tomorrowland! Someday 😂
 
 <!-- ## 👨‍💻 &nbsp;I have experience
 <br> -->
