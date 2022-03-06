@@ -50,7 +50,7 @@
  
 - 👉 Sou apaixonado por tecnologia 💻, ciência 👨‍🔬 e games 🎮 e estou aprendendo programação através do Rocketseat 🚀.
 
-- 🔭 Meu foco é no conhecimento 📚 e no aprendizado 👨🏼‍🎓, em busca de me tornar um Desenvolvedor!
+- 🔭 Meu foco é adquirir conhecimento 📚 e colocar em pratica o aprendizado 👨🏼‍🎓, em busca de me tornar um Desenvolvedor!
 
 <br>
 
