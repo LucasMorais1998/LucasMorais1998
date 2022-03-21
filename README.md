@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=36&background=1BFF2800&vCenter=true&lines=Ol%C3%A1%F0%9F%91%8B%F0%9F%8F%BC.+Eu+sou+Lucas!)](https://git.io/typing-svg)
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?size=36&background=1BFF2800&vCenter=true&lines=Ol%C3%A1%F0%9F%91%8B%F0%9F%8F%BC.+Eu+sou+Lucas!">
+</h1>
 
 - 👉 Sou apaixonado por tecnologia 💻, ciência 👨‍🔬 e games 🎮 e estou aprendendo programação através do Rocketseat 🚀.
 
