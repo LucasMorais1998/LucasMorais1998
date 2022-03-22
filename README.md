@@ -6,7 +6,7 @@
 </div>
 
 <p align="center">
-  Não sei como ou o que lhe trouxe até aqui, mas seja bem-vindo(a). <br/>
+  Não sei o que lhe trouxe, ou como chegou até aqui, mas seja bem-vindo(a). <br/>
   Continue para saber um pouco sobre mim, informações, conhecimentos, objetivos e uma ou outra curiosidade 😁.
 </p>
 
