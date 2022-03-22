@@ -39,7 +39,7 @@
 <h2 align="left">🃏 Curiosidades</h2>
 <ul>
   <li>Meu game favorito é The Witcher 3 🐺</li>
-  <li>Eu adoro macarronada 🍝</li>
+  <li>Minha comida preferida é Parmegiana de Frango 🍗</li>
   <li>Eu tenho um cachorro chamado Toddy 🐶</li>
   <li>Eu sei uma coisa ou outra sobre imunologia 🧪</li>
 </ul>
