@@ -23,7 +23,7 @@
   <li>Nome: Lucas Morais dos Santos</li>
   <li>Idade: 23 anos</li>
   <li>Estado: São Paulo</li>
-  <li>Formação Acadêmica: Técnico (em andamento)</li>
+  <li>Formação Acadêmica: Técnico em TI (em andamento)</li>
   <li>Cursos:
     <ul>
       <li>Bootcamp Ignite Rocketseat 🚀 (em andamento)</li>
