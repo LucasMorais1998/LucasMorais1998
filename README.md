@@ -1,13 +1,16 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=38&color=FFFFFF&lines=Ol%C3%A1%F0%9F%91%8B%F0%9F%8F%BC+Bem+Vindo(a)!"> <br/>
-  <img src="https://komarev.com/ghpvc/?username=LucasMorais1998-github-LucasMorais1998&style=flat-square" height="28px" alt="profile views counter">
-</h1>
+<div align="center">
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com?size=38&color=FFFFFF&lines=Ol%C3%A1%F0%9F%91%8B%F0%9F%8F%BC+Bem+Vindo(a)!"> <br/>
+    <img src="https://komarev.com/ghpvc/?username=LucasMorais1998-github-LucasMorais1998&style=flat-square" height="28px" alt="profile views counter">
+  </h1>
+</div>
 
-<p align="left">
+<p align="center">
   Não sei como ou o que lhe trouxe até aqui, mas seja bem-vindo(a). <br/>
   Continue para saber um pouco sobre mim, informações, conhecimentos, objetivos e uma ou outra curiosidade 😁.
 </p>
 
+<br/>
 <h2 align="left">🧑🏻‍ Sobre Mim</h2>
 
 <p align="left">
@@ -103,6 +106,6 @@
 <h2 align="left">🌍 Social Links</h2> 
 <span>
   <a href="mailto:lucas14.morais@gmail.com" target="_blank"/><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail logo"/></a>
-  <a href="https://www.linkedin.com/in/lucas-morais-santos/" target="_blank"/><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin logo" /></a>
-  <a href="https://twitter.com/lucasmds198" target="_blank"/><img src="https://img.shields.io/badge/<handle>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter logo" /></a>
+  <a href="https://www.linkedin.com/in/lucas-morais-santos/" target="_blank"/><img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin logo" /></a>
+  <a href="https://twitter.com/lucasmds198" target="_blank"/><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter logo" /></a>
 </span>
