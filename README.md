@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?size=38&color=FFFFFF&lines=Ol%C3%A1%F0%9F%91%8B%F0%9F%8F%BC+Bem+Vindo(a)!"> <br/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=34&lines=Ol%C3%A1+%F0%9F%91%8B%F0%9F%8F%BC.+Bem+Vindo(a)!"> <br/>
     <img src="https://komarev.com/ghpvc/?username=LucasMorais1998-github-LucasMorais1998&style=flat-square" height="28px" alt="profile views counter">
   </h1>
 </div>
