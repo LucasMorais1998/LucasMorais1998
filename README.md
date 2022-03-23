@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=34&lines=Ol%C3%A1+%F0%9F%91%8B%F0%9F%8F%BC.+Bem+Vindo(a)!"> <br/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=34&lines=Ol%C3%A1+%F0%9F%91%8B%F0%9F%8F%BC.+Bem+Vindo(a)!" alt="welcome message"> <br/>
     <img src="https://komarev.com/ghpvc/?username=LucasMorais1998-github-LucasMorais1998&style=flat-square" height="28px" alt="profile views counter">
   </h1>
 </div>
@@ -91,15 +91,14 @@
 </span>
 
 <br/><br/>
-<h2 align="left">📊 GitHub Analytics </h2> 
+<h2 align="left">📊 GitHub Analytics </h2>
 
 <div align="center">
-  <a href="https://github.com/LucasMorais1998">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMorais1998&border_color=fff&layout=compact&langs_count=7&theme=chartreuse-dark&title_color=fff"/>
-  &nbsp
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasMorais1998&show_icons=true&border_color=fff&theme=chartreuse-dark&include_all_commits=true&count_private=true&title_color=fff"/>
-  &nbsp
-  <img height="200em" alt="TYP Github Status" src="https://github-readme-streak-stats.herokuapp.com/?user=LucasMorais1998&show_icons=true&count_private=true&theme=chartreuse-dark&border_color=fff&bg_color=fff&title_color=fff"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMorais1998&theme=chartreuse-dark&title_color=fff&text_color=fff&border_color=fff&layout=compact&langs_count=7&exclude_repo=Exercicios_URI" alt="most languages"/>
+  
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=LucasMorais1998&&show_icons=true&theme=chartreuse-dark&title_color=fff&text_color=fff&border_color=fff&count_private=true" alt="stats"/>
+  
+  <img height="200em" alt="TYP Github Status" src="https://github-readme-streak-stats.herokuapp.com?user=LucasMorais1998&theme=chartreuse-dark&date_format=M%20j%5B%2C%20Y%5D&border=DDDDDD&stroke=DDDDDD&ring=F7F7F7&currStreakNum=F7F7F7&fire=36BCF7&sideNums=F7F7F7&currStreakLabel=36BCF7&sideLabels=36BCF7&dates=DDDDDD" alt="current streak">
 </div>
   
 <br/> <br/>
