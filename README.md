@@ -96,9 +96,9 @@
 <div align="center">
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMorais1998&theme=chartreuse-dark&title_color=fff&text_color=fff&border_color=fff&layout=compact&langs_count=7&exclude_repo=Exercicios_URI" alt="most languages"/>
   
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=LucasMorais1998&&show_icons=true&theme=chartreuse-dark&title_color=fff&text_color=fff&border_color=fff&count_private=true" alt="stats"/>
+  <img height="50%" src="https://github-readme-stats.vercel.app/api?username=LucasMorais1998&&show_icons=true&theme=chartreuse-dark&title_color=fff&text_color=fff&border_color=fff&count_private=true" alt="stats"/>
   
-  <img height="200em" alt="TYP Github Status" src="https://github-readme-streak-stats.herokuapp.com?user=LucasMorais1998&theme=chartreuse-dark&date_format=M%20j%5B%2C%20Y%5D&border=DDDDDD&stroke=DDDDDD&ring=F7F7F7&currStreakNum=F7F7F7&fire=36BCF7&sideNums=F7F7F7&currStreakLabel=36BCF7&sideLabels=36BCF7&dates=DDDDDD" alt="current streak">
+  <img height="50%" alt="TYP Github Status" src="https://github-readme-streak-stats.herokuapp.com?user=LucasMorais1998&theme=chartreuse-dark&date_format=M%20j%5B%2C%20Y%5D&border=DDDDDD&stroke=DDDDDD&ring=F7F7F7&currStreakNum=F7F7F7&fire=36BCF7&sideNums=F7F7F7&currStreakLabel=36BCF7&sideLabels=36BCF7&dates=DDDDDD" alt="current streak">
 </div>
   
 <br/> <br/>
