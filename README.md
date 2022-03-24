@@ -85,8 +85,6 @@
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js logo" title="Next.js" />
   <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="Nest.js logo" title="Nest.js" />
   <img src="https://img.shields.io/badge/adonisjs-%23220052.svg?style=for-the-badge&logo=adonisjs&logoColor=white" alt="Adonis.js logo" title="Adonis.js" /> <br/>
-  
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio logo" title="Android Studio" />
   <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native logo" title="React Native" />
 </span>
 
@@ -106,5 +104,5 @@
 <span>
   <a href="mailto:lucas14.morais@gmail.com" target="_blank"/><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail logo" title="Gmail" /></a>
   <a href="https://www.linkedin.com/in/lucas-morais-santos/" target="_blank"/><img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin logo" title="Linkedin" /></a>
-  <a href="https://twitter.com/lucasmds198" target="_blank"/><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter logo" title="Twitter" /></a>
+  <!--<a href="https://twitter.com/lucasmds198" target="_blank"/><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter logo" title="Twitter" /></a>-->
 </span>
