@@ -86,8 +86,10 @@
   <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="Nest.js logo" title="Nest.js" />
   <img src="https://img.shields.io/badge/adonisjs-%23220052.svg?style=for-the-badge&logo=adonisjs&logoColor=white" alt="Adonis.js logo" title="Adonis.js" />
   <img src="https://img.shields.io/badge/graphql-de33a6?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL logo" title="GraphQL" /><br/>
-  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native logo" title="React Native" /> <br />
+  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native logo" title="React Native" />
+  <img src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white" alt="Expo logo" title="Expo" /><br/> 
   <img src="https://img.shields.io/badge/Jest-c03b13?style=for-the-badge&logo=Jest&logoColor=white" alt="Jest logo" title="Jest" /> 
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress logo" title="Cypress" /> 
 </span>
 
 <br/><br/>
