@@ -31,7 +31,7 @@
     <ul>
       <li>Bootcamp Ignite Rocketseat 🚀 (em andamento)</li>
       <li>NetAcad - IT Essentials: PC Hardware and Software 🖥</li>
-      <li>Red Hat System Administration I (RH124) 📌 </li>
+      <li>Red Hat System Administration I (RH124) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original.svg" height="16" /> </li>
     </ul>
 </ul>
 
