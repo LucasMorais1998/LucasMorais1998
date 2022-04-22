@@ -58,7 +58,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git logo" title="Git" height="30" />
 </span>
 
-<br/><br/>
+<br/>
 <h2 align="left"> 📚 Estou Aprendendo</h2>
 
 <span> 
@@ -67,7 +67,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SASS logo" title="SASS" height="30" />
 </span>
 
-<br/><br/>
+<br/>
 <h2 align="left"> 🔭 Futuramente pretendo aprender</h2>
 
 <span> 
@@ -89,7 +89,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg" alt="Elixir logo" title="Elixir" height="30" />
 </span>
 
-<br/><br/>
+<br/>
 <h2 align="left">📊 Análises GitHub </h2>
 
 <div align="center">
@@ -100,7 +100,7 @@
   <img height="200em" alt="TYP Github Status" src="https://github-readme-streak-stats.herokuapp.com?user=LucasMorais1998&theme=chartreuse-dark&date_format=M%20j%5B%2C%20Y%5D&border=DDDDDD&stroke=DDDDDD&ring=F7F7F7&currStreakNum=F7F7F7&fire=36BCF7&sideNums=F7F7F7&currStreakLabel=36BCF7&sideLabels=36BCF7&dates=DDDDDD" alt="current streak">
 </div>
   
-<br/> <br/>
+<br/>
 <h2 align="left">🌍 Links Sociais</h2> 
 <span>
   <a href="https://www.linkedin.com/in/lucas-morais-santos/" target="_blank"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="Linkedin logo" title="Linkedin" height="35" /></a>
