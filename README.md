@@ -49,7 +49,7 @@
 
 ### 📊&nbsp;GitHub Analytics:
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMorais1998&theme=chartreuse-dark&title_color=fff&text_color=fff&border_color=fff&layout=compact&langs_count=7&exclude_repo=Exercicios_URI" alt="most languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMorais1998&theme=chartreuse-dark&title_color=fff&text_color=fff&border_color=fff&layout=compact&langs_count=7&exclude_repo=uri-exercises" alt="most languages" />
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasMorais1998&&show_icons=true&theme=chartreuse-dark&title_color=fff&text_color=fff&border_color=fff&count_private=true" alt="stats" />
   
