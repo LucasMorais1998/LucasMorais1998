@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Lucas 👋</h1>
+<h1 align="center">Hi there, I'm Lucas&nbsp;👋</h1>
 
 ### About me:
 - 🌱&nbsp;I'm always learning something about programming and technology;
@@ -15,6 +15,7 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-111?style=flat&logo=github)](https://github.com/)&nbsp;
 [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-111?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://code.visualstudio.com/)&nbsp;
 [![Insomnia](https://img.shields.io/badge/-Insomnia-111?style=flat&logo=insomnia&logoColor=4000BF)](https://insomnia.rest/)&nbsp;
+[![Markdown](https://img.shields.io/badge/-Markdown-111?style=flat&logo=markdown)](https://www.markdownguide.org/)&nbsp;
 [![Linux](https://img.shields.io/badge/-Linux-111?style=flat&logo=linux)](https://www.linux.org/)&nbsp;
 <br/>
 
