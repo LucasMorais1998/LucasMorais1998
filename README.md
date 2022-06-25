@@ -33,14 +33,16 @@
 
 [![NestJS](https://img.shields.io/badge/-Nest%20JS-111?style=flat&logo=nestjs&logoColor=E0234E)](https://nestjs.com/)&nbsp;
 [![GraphQL](https://img.shields.io/badge/-GraphQL-111?style=flat&logo=graphql&logoColor=E10098)](https://graphql.org/)&nbsp;
+[![Prisma](https://img.shields.io/badge/-Prisma-111?style=flat&logo=prisma&logoColor=16A394)](https://www.prisma.io/)&nbsp;
+[![Jest](https://img.shields.io/badge/-Jest-111?style=flat&logo=jest&logoColor=C21325)](https://jestjs.io/)&nbsp;
+[![Cypress](https://img.shields.io/badge/-Cypress-111?style=flat&logo=cypress)](https://www.cypress.io/)&nbsp; <br/>
 [![Docker](https://img.shields.io/badge/-Docker-111?style=flat&logo=docker)](https://www.docker.com/)&nbsp;
 [![Amazon Web Services](https://img.shields.io/badge/-AWS-111?style=flat&logo=amazon%20aws&logoColor=FF9900)](https://aws.amazon.com/)&nbsp;
 [![MongoDB](https://img.shields.io/badge/-MongoDB-111?style=flat&logo=mongodb)](https://www.mongodb.com/)&nbsp;
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-111?style=flat&logo=postgresql)](https://www.postgresql.org/)&nbsp; <br/>
-[![Jest](https://img.shields.io/badge/-Jest-111?style=flat&logo=jest&logoColor=C21325)](https://jestjs.io/)&nbsp;
-[![Cypress](https://img.shields.io/badge/-Cypress-111?style=flat&logo=cypress)](https://www.cypress.io/)&nbsp;
 [![React Native](https://img.shields.io/badge/-React%20Native-111?style=flat&logo=react&logoColor=fff)](https://reactnative.dev/)&nbsp;
 [![Expo](https://img.shields.io/badge/-Expo-111?style=flat&logo=expo)](https://expo.dev/)&nbsp;
+[![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-111?style=flat&logo=IntelliJ%20IDEA)](https://www.jetbrains.com/idea/)&nbsp;
 [![Java](https://img.shields.io/badge/-Java-111?style=flat&logo=java)](https://www.java.com/en/)&nbsp; <br/>
 
 ### 🤝&nbsp;Contact me: 💼, 📫 and 🎮:
