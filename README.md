@@ -15,9 +15,9 @@
 [![MySQL](https://img.shields.io/badge/-MySQL-111?style=flat&logo=mysql)](https://www.mysql.com/)&nbsp; <br/>
 [![Git](https://img.shields.io/badge/-Git-111?style=flat&logo=git)](https://git-scm.com/)&nbsp;
 [![GitHub](https://img.shields.io/badge/-GitHub-111?style=flat&logo=github)](https://github.com/)&nbsp;
+[![Markdown](https://img.shields.io/badge/-Markdown-111?style=flat&logo=markdown)](https://www.markdownguide.org/)&nbsp;
 [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-111?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://code.visualstudio.com/)&nbsp;
 [![Insomnia](https://img.shields.io/badge/-Insomnia-111?style=flat&logo=insomnia&logoColor=4000BF)](https://insomnia.rest/)&nbsp;
-[![Markdown](https://img.shields.io/badge/-Markdown-111?style=flat&logo=markdown)](https://www.markdownguide.org/)&nbsp;
 [![Linux](https://img.shields.io/badge/-Linux-111?style=flat&logo=linux)](https://www.linux.org/)&nbsp; <br/>
 
 ### 📚&nbsp;I'm learning:
