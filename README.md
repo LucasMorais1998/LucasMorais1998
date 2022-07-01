@@ -11,7 +11,7 @@
 
 [![HTML5](https://img.shields.io/badge/-HTML5-111?style=flat&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)&nbsp;
 [![CSS3](https://img.shields.io/badge/-CSS3-111?style=flat&logo=css3&logoColor=2965f1)](https://developer.mozilla.org/en-US/docs/Web/CSS)&nbsp;
-[![Javascript](https://img.shields.io/badge/-Javascript-111?style=flat&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)&nbsp;
+[![JavaScript](https://img.shields.io/badge/-JavaScript-111?style=flat&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)&nbsp;
 [![MySQL](https://img.shields.io/badge/-MySQL-111?style=flat&logo=mysql)](https://www.mysql.com/)&nbsp; <br/>
 [![Git](https://img.shields.io/badge/-Git-111?style=flat&logo=git)](https://git-scm.com/)&nbsp;
 [![GitHub](https://img.shields.io/badge/-GitHub-111?style=flat&logo=github)](https://github.com/)&nbsp;
