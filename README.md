@@ -15,14 +15,17 @@
 [![MySQL](https://img.shields.io/badge/-MySQL-111?style=flat&logo=mysql)](https://www.mysql.com/)&nbsp; <br/>
 [![Git](https://img.shields.io/badge/-Git-111?style=flat&logo=git)](https://git-scm.com/)&nbsp;
 [![GitHub](https://img.shields.io/badge/-GitHub-111?style=flat&logo=github)](https://github.com/)&nbsp;
-[![Markdown](https://img.shields.io/badge/-Markdown-111?style=flat&logo=markdown)](https://www.markdownguide.org/)&nbsp;
+[![Markdown](https://img.shields.io/badge/-Markdown-111?style=flat&logo=markdown)](https://www.markdownguide.org/)&nbsp; 
+[![Windows Terminal](https://img.shields.io/badge/-Windows%20Terminal-111?style=flat&logo=windows%20terminal)](https://docs.microsoft.com/en-us/windows/terminal/)&nbsp; 
+[![PowerShell](https://img.shields.io/badge/-PowerShell-111?style=flat&logo=powershell)](https://docs.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7.2)&nbsp; <br/>
 [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-111?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://code.visualstudio.com/)&nbsp;
 [![Insomnia](https://img.shields.io/badge/-Insomnia-111?style=flat&logo=insomnia&logoColor=4000BF)](https://insomnia.rest/)&nbsp;
-[![Linux](https://img.shields.io/badge/-Linux-111?style=flat&logo=linux)](https://www.linux.org/)&nbsp; <br/>
+[![Linux](https://img.shields.io/badge/-Linux-111?style=flat&logo=linux)](https://www.linux.org/)&nbsp; 
+[![Windows](https://img.shields.io/badge/-Windows-111?style=flat&logo=windows&logoColor=0078D6)](https://www.microsoft.com/en-us/windows)&nbsp; <br/>
 
 ### 📚&nbsp;I'm learning:
 
-[![Typescript](https://img.shields.io/badge/-Typescript-111?style=flat&logo=typescript)](https://www.typescriptlang.org/)&nbsp;
+[![TypeScript](https://img.shields.io/badge/-TypeScript-111?style=flat&logo=typescript)](https://www.typescriptlang.org/)&nbsp;
 [![React](https://img.shields.io/badge/-React-111?style=flat&logo=react)](https://reactjs.org/)&nbsp;
 [![Node.js](https://img.shields.io/badge/-Node.js-111?style=flat&logo=node.js)](https://nodejs.org/en/)&nbsp; 
 [![Next.js](https://img.shields.io/badge/-Next.js-111?style=flat&logo=next.js)](https://nextjs.org/)&nbsp;
@@ -32,6 +35,7 @@
 ### 🔭&nbsp;I'm interested in:
 
 [![NestJS](https://img.shields.io/badge/-Nest%20JS-111?style=flat&logo=nestjs&logoColor=E0234E)](https://nestjs.com/)&nbsp;
+[![Koa](https://img.shields.io/badge/-Koa-111?style=flat&logo=koa)](https://koajs.com/)&nbsp;
 [![GraphQL](https://img.shields.io/badge/-GraphQL-111?style=flat&logo=graphql&logoColor=E10098)](https://graphql.org/)&nbsp;
 [![Prisma](https://img.shields.io/badge/-Prisma-111?style=flat&logo=prisma&logoColor=16A394)](https://www.prisma.io/)&nbsp;
 [![Jest](https://img.shields.io/badge/-Jest-111?style=flat&logo=jest&logoColor=C21325)](https://jestjs.io/)&nbsp;
