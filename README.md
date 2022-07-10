@@ -2,7 +2,8 @@
 
 ### About me:
 
-- 🌱&nbsp;I'm always learning something about **programming** and **technology**;
+- 🌱&nbsp;I'm always looking to learn something about **programming** and **technology**;
+- 📚&nbsp;I'm currently studying for a bachelor's degree in **Information Systems**;
 - 👨🏻‍💻&nbsp;I'm currently focused on **Web Development** (but I'm a **Backend enthusiast**); 
 - 😄&nbsp;Pronouns: **he/him**, **ele/dele**;
 - ⚡&nbsp;**Introverted**, **observant**, **thinking**, **judging** and **turbulent** personality traits ([ISTJ-T](https://www.16personalities.com/istj-personality)).
