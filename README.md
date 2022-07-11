@@ -50,11 +50,10 @@
 [![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-111?style=flat&logo=IntelliJ%20IDEA)](https://www.jetbrains.com/idea/)&nbsp;
 [![Java](https://img.shields.io/badge/-Java-111?style=flat&logo=java)](https://www.java.com/en/)&nbsp; <br/>
 
-### 🤝&nbsp;Contact me: 💼, 📫 and 🎮:
+### 🤝&nbsp;Contact me:
 
 [![Linkedin](https://img.shields.io/badge/-Lucas%20Morais-0A66C2?style=flat&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/lucas-morais-santos/)&nbsp;
-[![Gmail](https://img.shields.io/badge/-lucas14.morais@gmail.com-EA4335?style=flat&logo=gmail&logoColor=fff)](mailto:lucas14.morais@gmail.com)&nbsp;
-[![Steam](https://img.shields.io/badge/-imunodeficiente-111?style=flat&logo=steam)](https://steamcommunity.com/id/imunodeficiente/)&nbsp; <br/>
+[![Gmail](https://img.shields.io/badge/-lucas14.morais@gmail.com-EA4335?style=flat&logo=gmail&logoColor=fff)](mailto:lucas14.morais@gmail.com)&nbsp; <br/>
 
 ### 📊&nbsp;GitHub Analytics:
 <div align="center">
@@ -66,4 +65,3 @@
   
   <img height="150em" src="https://github-readme-stats.vercel.app/api/wakatime?username=LucasMorais1998&langs_count=4&theme=chartreuse-dark&title_color=fff&text_color=fff&hide_border=true" alt="Wakatime Stats" />
 </div>
-
