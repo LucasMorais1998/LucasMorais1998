@@ -36,7 +36,7 @@
 ### 🔭&nbsp;I'm interested in:
 
 [![NestJS](https://img.shields.io/badge/-Nest%20JS-111?style=flat&logo=nestjs&logoColor=E0234E)](https://nestjs.com/)&nbsp;
-[![Koa](https://img.shields.io/badge/-Koa-111?style=flat&logo=koa)](https://koajs.com/)&nbsp;
+[![Material UI](https://img.shields.io/badge/-Material%20UI-111?style=flat&logo=mui)](https://mui.com/)&nbsp;
 [![GraphQL](https://img.shields.io/badge/-GraphQL-111?style=flat&logo=graphql&logoColor=E10098)](https://graphql.org/)&nbsp;
 [![Prisma](https://img.shields.io/badge/-Prisma-111?style=flat&logo=prisma&logoColor=16A394)](https://www.prisma.io/)&nbsp;
 [![Jest](https://img.shields.io/badge/-Jest-111?style=flat&logo=jest&logoColor=C21325)](https://jestjs.io/)&nbsp;
