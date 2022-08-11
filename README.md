@@ -1,14 +1,14 @@
-<h1 align="center">Hi there, I'm Lucas&nbsp;👋</h1>
+<h1 align="center">Hi there, I'm Lucas&nbsp;:wave:</h1>
 
-### About me:
+### :clipboard:&nbsp;About me:
 
-- 🌱&nbsp;I'm always looking to learn something about **programming** and **technology**;
-- 📚&nbsp;I'm currently studying for a bachelor's degree in **Information Systems**;
-- 👨🏻‍💻&nbsp;I'm currently focused on **Frontend** (but I'm a **Backend enthusiast**); 
-- 😄&nbsp;Pronouns: **He/Him**, **Ele/Dele**;
-- ⚡&nbsp;**Introverted**, **observant**, **thinking**, **judging** and **turbulent** personality traits ([ISTJ-T](https://www.16personalities.com/istj-personality)).
+- :seedling:&nbsp;I'm always looking to learn something about **programming** and **technology**;
+- :man_student:&nbsp;I'm currently studying for a bachelor's degree in **Information Systems**;
+- :man_technologist:&nbsp;I'm currently focused on **Frontend** (but I'm a **Backend enthusiast**); 
+- :smile:&nbsp;Pronouns: **He/Him**, **Ele/Dele**;
+- :zap:&nbsp;**Introverted**, **observant**, **thinking**, **judging** and **turbulent** personality traits ([ISTJ-T](https://www.16personalities.com/istj-personality)).
 
-### 🛠&nbsp;I have knowledge in:
+### :hammer_and_wrench:&nbsp;I have knowledge in:
 
 [![HTML5](https://img.shields.io/badge/-HTML5-111?style=flat&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)&nbsp;
 [![CSS3](https://img.shields.io/badge/-CSS3-111?style=flat&logo=css3&logoColor=2965f1)](https://developer.mozilla.org/en-US/docs/Web/CSS)&nbsp;
@@ -24,7 +24,7 @@
 [![Linux](https://img.shields.io/badge/-Linux-111?style=flat&logo=linux)](https://www.linux.org/)&nbsp; 
 [![Windows](https://img.shields.io/badge/-Windows-111?style=flat&logo=windows&logoColor=0078D6)](https://www.microsoft.com/en-us/windows)&nbsp; <br/>
 
-### 📚&nbsp;I'm learning:
+### :books:&nbsp;I'm learning:
 
 [![TypeScript](https://img.shields.io/badge/-TypeScript-111?style=flat&logo=typescript)](https://www.typescriptlang.org/)&nbsp;
 [![React](https://img.shields.io/badge/-React-111?style=flat&logo=react)](https://reactjs.org/)&nbsp;
@@ -33,7 +33,7 @@
 [![SASS](https://img.shields.io/badge/-SASS-111?style=flat&logo=sass)](https://sass-lang.com/)&nbsp;
 [![TailwindCSS](https://img.shields.io/badge/-Tailwind%20CSS-111?style=flat&logo=tailwindcss)](https://tailwindcss.com/)&nbsp; <br/>
 
-### 🔭&nbsp;I'm interested in:
+### :telescope:&nbsp;I'm interested in:
 
 [![NestJS](https://img.shields.io/badge/-Nest%20JS-111?style=flat&logo=nestjs&logoColor=E0234E)](https://nestjs.com/)&nbsp;
 [![Material UI](https://img.shields.io/badge/-Material%20UI-111?style=flat&logo=mui)](https://mui.com/)&nbsp;
@@ -50,12 +50,12 @@
 [![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-111?style=flat&logo=IntelliJ%20IDEA)](https://www.jetbrains.com/idea/)&nbsp;
 [![Java](https://img.shields.io/badge/-Java-111?style=flat&logo=java)](https://www.java.com/en/)&nbsp; <br/>
 
-### 🤝&nbsp;Contact me:
+### :handshake:&nbsp;Contact me:
 
 [![Linkedin](https://img.shields.io/badge/-Lucas%20Morais-0A66C2?style=flat&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/lucas-morais-santos/)&nbsp;
 [![Gmail](https://img.shields.io/badge/-lucas14.morais@gmail.com-EA4335?style=flat&logo=gmail&logoColor=fff)](mailto:lucas14.morais@gmail.com)&nbsp; <br/>
 
-### 📊&nbsp;GitHub Analytics:
+### :bar_chart:&nbsp;GitHub Analytics:
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMorais1998&theme=chartreuse-dark&title_color=fff&text_color=fff&layout=compact&langs_count=7&hide_border=true" alt="Most Languages" />
   
