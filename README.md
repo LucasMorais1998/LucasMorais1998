@@ -48,7 +48,7 @@
 [![React Native](https://img.shields.io/badge/-React%20Native-111?style=flat&logo=react&logoColor=fff)](https://reactnative.dev/)&nbsp;
 [![Expo](https://img.shields.io/badge/-Expo-111?style=flat&logo=expo)](https://expo.dev/)&nbsp;
 [![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-111?style=flat&logo=IntelliJ%20IDEA)](https://www.jetbrains.com/idea/)&nbsp;
-[![Java](https://img.shields.io/badge/-Java-111?style=flat&logo=java)](https://www.java.com/en/)&nbsp; <br/>
+[![Go](https://img.shields.io/badge/-Go-111?style=flat&logo=go)](https://go.dev/)&nbsp; <br/>
 
 ### :handshake:&nbsp;Contact me:
 
