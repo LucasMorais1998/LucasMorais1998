@@ -10,50 +10,50 @@
 
 ### :hammer_and_wrench:&nbsp;I have knowledge in:
 
-[![HTML5](https://img.shields.io/badge/-HTML5-111?style=flat&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)&nbsp;
-[![CSS3](https://img.shields.io/badge/-CSS3-111?style=flat&logo=css3&logoColor=2965f1)](https://developer.mozilla.org/en-US/docs/Web/CSS)&nbsp;
-[![JavaScript](https://img.shields.io/badge/-JavaScript-111?style=flat&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)&nbsp;
-[![MySQL](https://img.shields.io/badge/-MySQL-111?style=flat&logo=mysql)](https://www.mysql.com/)&nbsp; <br/>
-[![Git](https://img.shields.io/badge/-Git-111?style=flat&logo=git)](https://git-scm.com/)&nbsp;
-[![GitHub](https://img.shields.io/badge/-GitHub-111?style=flat&logo=github)](https://github.com/)&nbsp;
-[![Markdown](https://img.shields.io/badge/-Markdown-111?style=flat&logo=markdown)](https://www.markdownguide.org/)&nbsp; 
-[![Windows Terminal](https://img.shields.io/badge/-Windows%20Terminal-111?style=flat&logo=windows%20terminal)](https://docs.microsoft.com/en-us/windows/terminal/)&nbsp; 
-[![PowerShell](https://img.shields.io/badge/-PowerShell-111?style=flat&logo=powershell)](https://docs.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7.2)&nbsp; <br/>
-[![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-111?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://code.visualstudio.com/)&nbsp;
-[![Insomnia](https://img.shields.io/badge/-Insomnia-111?style=flat&logo=insomnia&logoColor=4000BF)](https://insomnia.rest/)&nbsp;
-[![Linux](https://img.shields.io/badge/-Linux-111?style=flat&logo=linux)](https://www.linux.org/)&nbsp; 
-[![Windows](https://img.shields.io/badge/-Windows-111?style=flat&logo=windows&logoColor=0078D6)](https://www.microsoft.com/en-us/windows)&nbsp; <br/>
+[![HTML5](https://img.shields.io/badge/-HTML5-111?style=flat&logo=html5 "HTML5")](https://developer.mozilla.org/en-US/docs/Web/HTML)&nbsp;
+[![CSS3](https://img.shields.io/badge/-CSS3-111?style=flat&logo=css3&logoColor=2965f1 "CSS3")](https://developer.mozilla.org/en-US/docs/Web/CSS)&nbsp;
+[![JavaScript](https://img.shields.io/badge/-JavaScript-111?style=flat&logo=javascript "JavaScript")](https://developer.mozilla.org/en-US/docs/Web/JavaScript)&nbsp;
+[![MySQL](https://img.shields.io/badge/-MySQL-111?style=flat&logo=mysql "MySQL")](https://www.mysql.com/)&nbsp; <br/>
+[![Git](https://img.shields.io/badge/-Git-111?style=flat&logo=git "Git")](https://git-scm.com/)&nbsp;
+[![GitHub](https://img.shields.io/badge/-GitHub-111?style=flat&logo=github "GitHub")](https://github.com/)&nbsp;
+[![Markdown](https://img.shields.io/badge/-Markdown-111?style=flat&logo=markdown "Markdown")](https://www.markdownguide.org/)&nbsp; 
+[![Windows Terminal](https://img.shields.io/badge/-Windows%20Terminal-111?style=flat&logo=windows%20terminal "Windows Terminal")](https://docs.microsoft.com/en-us/windows/terminal/)&nbsp; 
+[![PowerShell](https://img.shields.io/badge/-PowerShell-111?style=flat&logo=powershell "PowerShell")](https://docs.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7.2)&nbsp; <br/>
+[![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-111?style=flat&logo=visual-studio-code&logoColor=007ACC "VS Code")](https://code.visualstudio.com/)&nbsp;
+[![Insomnia](https://img.shields.io/badge/-Insomnia-111?style=flat&logo=insomnia&logoColor=4000BF "Insomnia")](https://insomnia.rest/)&nbsp;
+[![Linux](https://img.shields.io/badge/-Linux-111?style=flat&logo=linux "Linux")](https://www.linux.org/)&nbsp; 
+[![Windows](https://img.shields.io/badge/-Windows-111?style=flat&logo=windows&logoColor=0078D6 "Windows")](https://www.microsoft.com/en-us/windows)&nbsp; <br/>
 
 ### :books:&nbsp;I'm learning:
 
-[![TypeScript](https://img.shields.io/badge/-TypeScript-111?style=flat&logo=typescript)](https://www.typescriptlang.org/)&nbsp;
-[![React](https://img.shields.io/badge/-React-111?style=flat&logo=react)](https://reactjs.org/)&nbsp;
-[![Node.js](https://img.shields.io/badge/-Node.js-111?style=flat&logo=node.js)](https://nodejs.org/en/)&nbsp; 
-[![Next.js](https://img.shields.io/badge/-Next.js-111?style=flat&logo=next.js)](https://nextjs.org/)&nbsp;
-[![SASS](https://img.shields.io/badge/-SASS-111?style=flat&logo=sass)](https://sass-lang.com/)&nbsp;
-[![TailwindCSS](https://img.shields.io/badge/-Tailwind%20CSS-111?style=flat&logo=tailwindcss)](https://tailwindcss.com/)&nbsp; <br/>
+[![TypeScript](https://img.shields.io/badge/-TypeScript-111?style=flat&logo=typescript "TypeScript")](https://www.typescriptlang.org/)&nbsp;
+[![React.js](https://img.shields.io/badge/-React.js-111?style=flat&logo=react "React.js")](https://reactjs.org/)&nbsp;
+[![Node.js](https://img.shields.io/badge/-Node.js-111?style=flat&logo=node.js "Node.js")](https://nodejs.org/en/)&nbsp; 
+[![Next.js](https://img.shields.io/badge/-Next.js-111?style=flat&logo=next.js "Next.js")](https://nextjs.org/)&nbsp;
+[![SASS](https://img.shields.io/badge/-SASS-111?style=flat&logo=sass "SASS")](https://sass-lang.com/)&nbsp;
+[![TailwindCSS](https://img.shields.io/badge/-Tailwind%20CSS-111?style=flat&logo=tailwindcss "Tailwind CSS")](https://tailwindcss.com/)&nbsp; <br/>
 
 ### :telescope:&nbsp;I'm interested in:
 
-[![NestJS](https://img.shields.io/badge/-Nest%20JS-111?style=flat&logo=nestjs&logoColor=E0234E)](https://nestjs.com/)&nbsp;
-[![Material UI](https://img.shields.io/badge/-Material%20UI-111?style=flat&logo=mui)](https://mui.com/)&nbsp;
-[![GraphQL](https://img.shields.io/badge/-GraphQL-111?style=flat&logo=graphql&logoColor=E10098)](https://graphql.org/)&nbsp;
-[![Prisma](https://img.shields.io/badge/-Prisma-111?style=flat&logo=prisma&logoColor=16A394)](https://www.prisma.io/)&nbsp;
-[![Jest](https://img.shields.io/badge/-Jest-111?style=flat&logo=jest&logoColor=C21325)](https://jestjs.io/)&nbsp;
-[![Cypress](https://img.shields.io/badge/-Cypress-111?style=flat&logo=cypress)](https://www.cypress.io/)&nbsp; <br/>
-[![Docker](https://img.shields.io/badge/-Docker-111?style=flat&logo=docker)](https://www.docker.com/)&nbsp;
-[![Amazon Web Services](https://img.shields.io/badge/-AWS-111?style=flat&logo=amazon%20aws&logoColor=FF9900)](https://aws.amazon.com/)&nbsp;
-[![MongoDB](https://img.shields.io/badge/-MongoDB-111?style=flat&logo=mongodb)](https://www.mongodb.com/)&nbsp;
-[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-111?style=flat&logo=postgresql)](https://www.postgresql.org/)&nbsp; <br/>
-[![React Native](https://img.shields.io/badge/-React%20Native-111?style=flat&logo=react&logoColor=fff)](https://reactnative.dev/)&nbsp;
-[![Expo](https://img.shields.io/badge/-Expo-111?style=flat&logo=expo)](https://expo.dev/)&nbsp;
-[![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-111?style=flat&logo=IntelliJ%20IDEA)](https://www.jetbrains.com/idea/)&nbsp;
-[![Go](https://img.shields.io/badge/-Go-111?style=flat&logo=go)](https://go.dev/)&nbsp; <br/>
+[![NestJS](https://img.shields.io/badge/-Nest%20JS-111?style=flat&logo=nestjs&logoColor=E0234E "NestJS")](https://nestjs.com/)&nbsp;
+[![Material UI](https://img.shields.io/badge/-Material%20UI-111?style=flat&logo=mui "Material UI")](https://mui.com/)&nbsp;
+[![GraphQL](https://img.shields.io/badge/-GraphQL-111?style=flat&logo=graphql&logoColor=E10098 "GraphQL")](https://graphql.org/)&nbsp;
+[![Prisma](https://img.shields.io/badge/-Prisma-111?style=flat&logo=prisma&logoColor=16A394 "Prisma")](https://www.prisma.io/)&nbsp;
+[![Jest](https://img.shields.io/badge/-Jest-111?style=flat&logo=jest&logoColor=C21325 "Jest")](https://jestjs.io/)&nbsp;
+[![Cypress](https://img.shields.io/badge/-Cypress-111?style=flat&logo=cypress "Cypress")](https://www.cypress.io/)&nbsp; <br/>
+[![Docker](https://img.shields.io/badge/-Docker-111?style=flat&logo=docker "Docker")](https://www.docker.com/)&nbsp;
+[![Amazon Web Services](https://img.shields.io/badge/-AWS-111?style=flat&logo=amazon%20aws&logoColor=FF9900 "AWS")](https://aws.amazon.com/)&nbsp;
+[![MongoDB](https://img.shields.io/badge/-MongoDB-111?style=flat&logo=mongodb "MongoDB")](https://www.mongodb.com/)&nbsp;
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-111?style=flat&logo=postgresql "PostgreSQL")](https://www.postgresql.org/)&nbsp; <br/>
+[![React Native](https://img.shields.io/badge/-React%20Native-111?style=flat&logo=react&logoColor=fff "React Native")](https://reactnative.dev/)&nbsp;
+[![Expo](https://img.shields.io/badge/-Expo-111?style=flat&logo=expo "Expo")](https://expo.dev/)&nbsp;
+[![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-111?style=flat&logo=IntelliJ%20IDEA "IntelliJ")](https://www.jetbrains.com/idea/)&nbsp;
+[![Go](https://img.shields.io/badge/-Go-111?style=flat&logo=go "Go")](https://go.dev/)&nbsp; <br/>
 
 ### :handshake:&nbsp;Contact me:
 
-[![Linkedin](https://img.shields.io/badge/-Lucas%20Morais-0A66C2?style=flat&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/lucas-morais-santos/)&nbsp;
-[![Gmail](https://img.shields.io/badge/-lucas14.morais@gmail.com-EA4335?style=flat&logo=gmail&logoColor=fff)](mailto:lucas14.morais@gmail.com)&nbsp; <br/>
+[![Linkedin](https://img.shields.io/badge/-Lucas%20Morais-0A66C2?style=flat&logo=linkedin&logoColor=fff "Linkedin")](https://www.linkedin.com/in/lucas-morais-santos/)&nbsp;
+[![Gmail](https://img.shields.io/badge/-lucas14.morais@gmail.com-EA4335?style=flat&logo=gmail&logoColor=fff "Gmail")](mailto:lucas14.morais@gmail.com)&nbsp; <br/>
 
 ### :bar_chart:&nbsp;GitHub Analytics:
 <div align="center">
