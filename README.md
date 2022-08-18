@@ -33,6 +33,7 @@
 ### :telescope:&nbsp;I'm interested in:
 
 [![Redux](https://img.shields.io/badge/-Redux-111?style=flat&logo=redux&logoColor=764ABC "Redux")](https://redux.js.org/)&nbsp;
+[![React Query](https://img.shields.io/badge/-React%20Query-111?style=flat&logo=react%20query "React Query")](https://react-query-v3.tanstack.com/)&nbsp;
 [![Material UI](https://img.shields.io/badge/-Material%20UI-111?style=flat&logo=mui "Material UI")](https://mui.com/)&nbsp;
 [![Chakra UI](https://img.shields.io/badge/-Chakra%20UI-111?style=flat&logo=Chakra%20UI "Chakra UI")](https://chakra-ui.com/)&nbsp;
 [![Jest](https://img.shields.io/badge/-Jest-111?style=flat&logo=jest&logoColor=C21325 "Jest")](https://jestjs.io/)&nbsp;
