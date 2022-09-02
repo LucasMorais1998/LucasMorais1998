@@ -61,7 +61,9 @@
 ### :bar_chart:&nbsp;GitHub Analytics:
 <div align="center">
   <div align="center"> 
-    <img src="https://wakatime.com/badge/user/156024ed-a04f-4c9c-ad43-0483b7edb8f9.svg?style=flat" alt="Total time coded since Jul 9 2022" /> <br/>
+    <a href="https://wakatime.com/@LucasMorais1998" target="_blank">
+      <img src="https://wakatime.com/badge/user/156024ed-a04f-4c9c-ad43-0483b7edb8f9.svg?style=flat" alt="Total time coded since Jul 9 2022" />
+    </a> <br/>
     <sup><strong>Since Jul 9 2022</strong></sup>
   </div>
   
@@ -71,5 +73,7 @@
   
   <img height="150em" src="http://github-readme-streak-stats.herokuapp.com?user=LucasMorais1998&theme=chartreuse-dark&hide_border=true&stroke=FFFFFF&ring=FFFFFF&fire=36BCF7&currStreakNum=F7F7F7&sideNums=F7F7F7&currStreakLabel=36BCF7&sideLabels=36BCF7&dates=FFFFFF)](https://git.io/streak-stats" alt="Current Streak" />
   
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/wakatime?username=LucasMorais1998&langs_count=8&theme=chartreuse-dark&title_color=fff&text_color=fff&hide_border=true&layout=compact&v=2" alt="Wakatime Stats" />
+  <a href="https://wakatime.com/@LucasMorais1998" target="_blank">
+     <img height="150em" src="https://github-readme-stats.vercel.app/api/wakatime?username=LucasMorais1998&langs_count=8&theme=chartreuse-dark&title_color=fff&text_color=fff&hide_border=true&layout=compact&v=2" alt="Wakatime Stats" />
+  </a>
 </div>
