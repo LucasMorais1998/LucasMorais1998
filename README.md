@@ -60,7 +60,10 @@
 
 ### :bar_chart:&nbsp;GitHub Analytics:
 <div align="center">
-  <div align="center"> <img src="https://wakatime.com/badge/user/156024ed-a04f-4c9c-ad43-0483b7edb8f9.svg?style=flat" alt="Total time coded since Jul 9 2022" /> </div>
+  <div align="center"> 
+    <img src="https://wakatime.com/badge/user/156024ed-a04f-4c9c-ad43-0483b7edb8f9.svg?style=flat" alt="Total time coded since Jul 9 2022" /> <br/>
+    <sup><strong>Since Jul 9 2022</strong></sup>
+  </div>
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMorais1998&theme=chartreuse-dark&title_color=fff&text_color=fff&layout=compact&langs_count=7&hide_border=true" alt="Most Languages" />
   
