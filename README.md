@@ -2,10 +2,11 @@
 
 ### :clipboard:&nbsp;About me:
 
-- :seedling:&nbsp;I'm always looking to learn something about **programming** and **technology**;
-- :man_student:&nbsp; I'm currently studying for a bachelor's degree in **Information Systems**;
-- :man_technologist:&nbsp;I'm currently focused on **Back-end**, but I have some knowledge on **Front-end**, (I'm a **Fullstack enthusiast**);
-- :smile:&nbsp;Pronouns: **He/Him**, **Ele/Dele**;
+- :seedling:&nbsp;I'm always looking to learn something about **programming** and **technology**.
+- :man_technologist:&nbsp;I work as a **Software Development Assistant** at [**Zenvia**](https://www.zenvia.com/ "Zenvia Site").
+- :man_student:&nbsp; I'm currently studying for a bachelor's degree in **Information Systems**
+- :dart:&nbsp;I'm currently focused on **Back-end**, but I also have some knowledge on **Front-end**.
+- :smile:&nbsp;Pronouns: **He/Him**, **Ele/Dele**.
 - :zap:&nbsp;**Introverted**, **observant**, **thinking**, **judging** and **turbulent** personality traits ([ISTJ-T](https://www.16personalities.com/istj-personality)).
 
 ### :hammer_and_wrench:&nbsp;I have knowledge in:
