@@ -30,7 +30,8 @@
 [![Node.js](https://img.shields.io/badge/-Node.js-111?style=flat&logo=node.js "Node.js")](https://nodejs.org/en/)&nbsp; 
 [![Express](https://img.shields.io/badge/-Express-111?style=flat&logo=express "Express")](https://expressjs.com/)&nbsp;
 [![MongoDB](https://img.shields.io/badge/-MongoDB-111?style=flat&logo=mongodb "MongoDB")](https://www.mongodb.com/)&nbsp;
-[![Next.js](https://img.shields.io/badge/-Next.js-111?style=flat&logo=next.js "Next.js")](https://nextjs.org/)&nbsp;
+[![Next.js](https://img.shields.io/badge/-Next.js-111?style=flat&logo=next.js "Next.js")](https://nextjs.org/)&nbsp; <br/>
+[![C#](https://img.shields.io/badge/-C%23-111?style=flat&logo=csharp&logoColor=239120 "C Sharp")](https://learn.microsoft.com/en-us/dotnet/csharp/)&nbsp; 
 
 
 ### :telescope:&nbsp;I'm interested in:
