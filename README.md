@@ -3,7 +3,7 @@
 ### :clipboard:&nbsp;About me:
 
 - :seedling:&nbsp;I'm always looking to learn something about **programming** and **technology**.
-- :man_technologist:&nbsp;I work as a **Software Development Assistant** at [**Zenvia**](https://www.zenvia.com/ "Zenvia Site").
+- :man_technologist:&nbsp;I work as a **Junior Operations Developer** at [**Zenvia**](https://www.zenvia.com/ "Zenvia Site").
 - :man_student:&nbsp; I'm currently studying for a bachelor's degree in **Information Systems**
 - :dart:&nbsp;I'm currently focused on **Back-end**, but I also have some knowledge on **Front-end**.
 - :smile:&nbsp;Pronouns: **He/Him**, **Ele/Dele**.
