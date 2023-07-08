@@ -19,4 +19,5 @@ jobs:
           SHOW_TIME: true
           SHOW_MASKED_TIME: true
           LANG_COUNT: 5
-          CODE_LANG: ruby
+          CODE_LANG: python
+          STOP_AT_HTML: true
