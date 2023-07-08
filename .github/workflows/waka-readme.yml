@@ -15,8 +15,8 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
-          TIME_RANGE: last_30_days
+          TIME_RANGE: last_7_days
           SHOW_TIME: true
           SHOW_MASKED_TIME: true
-          LANG_COUNT: 3
-          CODE_LANG: javascript
+          LANG_COUNT: 5
+          CODE_LANG: ruby
