@@ -47,20 +47,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 July 2022 - To: 08 July 2023
+Total Time: 9 hrs 16 mins
 
-Total Time: 155 hrs 8 mins
-
-TypeScript   86 hrs 53 mins  >>>>>>>>>>>>>>-----------   56.01 %
-JavaScript   37 hrs 12 mins  >>>>>>-------------------   23.98 %
-HTML         8 hrs 57 mins   >------------------------   05.78 %
-CSS          7 hrs 34 mins   >------------------------   04.88 %
-JSON         4 hrs 28 mins   >------------------------   02.88 %
-Other        4 hrs 19 mins   >------------------------   02.79 %
-Markdown     1 hr 56 mins    -------------------------   01.25 %
-SCSS         1 hr 13 mins    -------------------------   00.79 %
-Bash         1 hr 13 mins    -------------------------   00.79 %
-Git Config   26 mins         -------------------------   00.28 %
+JavaScript   6 hrs 15 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   54.86 %
+HTML         2 hrs 18 mins   ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   20.24 %
+Other        2 hrs 8 mins    ⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   18.71 %
+Bash         18 mins         ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.70 %
+C#           14 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.17 %
 ```
 
 <!--END_SECTION:waka-->
