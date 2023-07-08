@@ -43,12 +43,6 @@
 [![Linkedin](https://img.shields.io/badge/-Lucas%20Morais-0A66C2?style=flat&logo=linkedin&logoColor=fff "Linkedin")](https://www.linkedin.com/in/lucas-morais-santos/)&nbsp;
 [![Gmail](https://img.shields.io/badge/-lucas14.morais@gmail.com-EA4335?style=flat&logo=gmail&logoColor=fff "Gmail")](mailto:lucas14.morais@gmail.com)&nbsp; <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasMorais1998&show_icons=true&theme=tokyonight&count_private=true)    
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMorais1998&layout=compact&theme=tokyonight&count_private=true&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-
-
-
 <!--END_SECTION:waka-->
