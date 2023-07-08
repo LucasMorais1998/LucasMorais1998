@@ -47,8 +47,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMorais1998&layout=compact&theme=tokyonight&count_private=true&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
-[![wakatime](https://wakatime.com/badge/user/LucasMorais1998.svg)](https://wakatime.com/@LucasMorais1998)
-
 <!--START_SECTION:waka-->
 
 
