@@ -42,3 +42,7 @@
 
 [![Linkedin](https://img.shields.io/badge/-Lucas%20Morais-0A66C2?style=flat&logo=linkedin&logoColor=fff "Linkedin")](https://www.linkedin.com/in/lucas-morais-santos/)&nbsp;
 [![Gmail](https://img.shields.io/badge/-lucas14.morais@gmail.com-EA4335?style=flat&logo=gmail&logoColor=fff "Gmail")](mailto:lucas14.morais@gmail.com)&nbsp; <br/>
+
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
