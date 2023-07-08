@@ -1,4 +1,4 @@
-name: Work Stats Readme
+name: Waka Readme
 
 on:
   workflow_dispatch:
@@ -14,8 +14,7 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-	  CODE_LANG: javascript	
-          BLOCKS: ░▒▓█
+          BLOCKS: ->
           TIME_RANGE: all_time
           SHOW_TIME: true
           SHOW_MASKED_TIME: true
