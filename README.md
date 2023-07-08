@@ -46,7 +46,7 @@
 
 <!--START_SECTION:waka-->
 
-```python
+```rust
 Total Time: 11 hrs 24 mins
 
 JavaScript   6 hrs 15 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   54.86 %
