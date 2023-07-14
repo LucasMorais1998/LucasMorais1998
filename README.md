@@ -8,7 +8,7 @@
 
 #### I have knowledge in:
 
-- ##### Frontend languages and tools as:
+- ##### Frontend languages and tools such as:
   [![HTML5](https://img.shields.io/badge/-HTML5-111?style=flat&logo=html5 "HTML5")](https://developer.mozilla.org/en-US/docs/Web/HTML)&nbsp;
   [![CSS3](https://img.shields.io/badge/-CSS3-111?style=flat&logo=css3&logoColor=2965f1 "CSS3")](https://developer.mozilla.org/en-US/docs/Web/CSS)&nbsp;
   [![JavaScript](https://img.shields.io/badge/-JavaScript-111?style=flat&logo=javascript "JavaScript")](https://developer.mozilla.org/en-US/docs/Web/JavaScript)&nbsp; 
@@ -16,13 +16,13 @@
   [![React.js](https://img.shields.io/badge/-React.js-111?style=flat&logo=react "React.js")](https://reactjs.org/)&nbsp;
   [![Styled Components](https://img.shields.io/badge/-Styled--Components-111?style=flat&logo=styled-components&logoColor=fff "Styled-Components")](https://styled-components.com/)&nbsp; <br/>
 
-- ##### Backend languages and tools as:
+- ##### Backend languages and tools such as:
   [![Node.js](https://img.shields.io/badge/-Node.js-111?style=flat&logo=node.js "Node.js")](https://nodejs.org/en/)&nbsp; 
   [![C#](https://img.shields.io/badge/-C%23-111?style=flat&logo=csharp&logoColor=239120 "C Sharp")](https://learn.microsoft.com/en-us/dotnet/csharp/)&nbsp; 
   [![MongoDB](https://img.shields.io/badge/-MongoDB-111?style=flat&logo=mongodb "MongoDB")](https://www.mongodb.com/)&nbsp; 
   [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-111?style=flat&logo=postgresql "PostgreSQL")](https://www.postgresql.org/)&nbsp; <br/>
 
-- ##### Other tools as:
+- ##### Other tools such as:
   [![Git](https://img.shields.io/badge/-Git-111?style=flat&logo=git "Git")](https://git-scm.com/)&nbsp;
   [![GitHub](https://img.shields.io/badge/-GitHub-111?style=flat&logo=github "GitHub")](https://github.com/)&nbsp;
   [![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-111?style=flat&logo=Azure%20DevOps&logoColor=0078D7 "Azure DevOps")](https://azure.microsoft.com/en-us/products/devops)&nbsp; 
