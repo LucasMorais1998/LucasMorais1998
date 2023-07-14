@@ -2,9 +2,9 @@
 
 #### About me:
 
-- :man_technologist:&nbsp;I work as a **Junior Operations Developer** at [**Zenvia**](https://www.zenvia.com/ "Zenvia Site").
+- :man_technologist:&nbsp;I'm a **Junior Operations Developer** at [**Zenvia**](https://www.zenvia.com/ "Zenvia Site").
 - :telescope:&nbsp;I'm currently working with **JavaScript** and **C#**.
-- :man_student:&nbsp;I'm studying a bachelor's degree in **Information Systems**.
+- :man_student:&nbsp;I'm studying for a bachelor's degree in **Information Systems**.
 
 #### I have knowledge in:
 
