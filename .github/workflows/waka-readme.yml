@@ -10,8 +10,8 @@ jobs:
   update-readme:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
-    steps:
-      - uses: athul/waka-readme@master
+    steps: # athul/waka-readme@master
+      - uses: athul/waka-readme@v0.2.1
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           TIME_RANGE: last_7_days
