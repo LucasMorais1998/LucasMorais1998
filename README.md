@@ -19,6 +19,7 @@
 - ##### Backend languages and tools such as:
   [![Node.js](https://img.shields.io/badge/-Node.js-111?style=flat&logo=node.js "Node.js")](https://nodejs.org/en/)&nbsp; 
   [![C#](https://img.shields.io/badge/-C%23-111?style=flat&logo=csharp&logoColor=239120 "C Sharp")](https://learn.microsoft.com/en-us/dotnet/csharp/)&nbsp; 
+  [![.NET](https://img.shields.io/badge/-.NET-111?style=flat&logo=dotnet&logoColor=512BD4 ".NET")](https://dotnet.microsoft.com/en-us/)&nbsp;
   [![MongoDB](https://img.shields.io/badge/-MongoDB-111?style=flat&logo=mongodb "MongoDB")](https://www.mongodb.com/)&nbsp; 
   [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-111?style=flat&logo=postgresql "PostgreSQL")](https://www.postgresql.org/)&nbsp; <br/>
 
@@ -30,13 +31,15 @@
   
 #### I'm learning:
 
-  [![.NET](https://img.shields.io/badge/-.NET-111?style=flat&logo=dotnet&logoColor=512BD4 ".NET")](https://dotnet.microsoft.com/en-us/)&nbsp;
   [![Amazon Web Services](https://img.shields.io/badge/-AWS-111?style=flat&logo=amazon%20aws&logoColor=FF9900 "AWS")](https://aws.amazon.com/)&nbsp;
+  [![Docker](https://img.shields.io/badge/-Docker-111?style=flat&logo=docker "Docker")](https://www.docker.com/)&nbsp;
 
 #### I'm interested in:
 
 [![Go](https://img.shields.io/badge/-Go-111?style=flat&logo=go "Go")](https://go.dev/)&nbsp;
-[![Docker](https://img.shields.io/badge/-Docker-111?style=flat&logo=docker "Docker")](https://www.docker.com/)&nbsp;
+[![Kubernetes](https://img.shields.io/badge/-Kubernetes-111?style=flat&logo=kubernetes&logoColor=326CE5 "Kubernetes")](https://kubernetes.io/)&nbsp;
+
+
 
 #### Contact me:
 
