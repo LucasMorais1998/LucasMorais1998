@@ -9,8 +9,6 @@
 #### I have knowledge in:
 
 - ##### Frontend languages and tools such as:
-  [![HTML5](https://img.shields.io/badge/-HTML5-111?style=flat&logo=html5 "HTML5")](https://developer.mozilla.org/en-US/docs/Web/HTML)&nbsp;
-  [![CSS3](https://img.shields.io/badge/-CSS3-111?style=flat&logo=css3&logoColor=2965f1 "CSS3")](https://developer.mozilla.org/en-US/docs/Web/CSS)&nbsp;
   [![JavaScript](https://img.shields.io/badge/-JavaScript-111?style=flat&logo=javascript "JavaScript")](https://developer.mozilla.org/en-US/docs/Web/JavaScript)&nbsp; 
   [![TypeScript](https://img.shields.io/badge/-TypeScript-111?style=flat&logo=typescript "TypeScript")](https://www.typescriptlang.org/)&nbsp;
   [![React.js](https://img.shields.io/badge/-React.js-111?style=flat&logo=react "React.js")](https://reactjs.org/)&nbsp;
@@ -25,7 +23,7 @@
 
 - ##### Other tools such as:
   [![Git](https://img.shields.io/badge/-Git-111?style=flat&logo=git "Git")](https://git-scm.com/)&nbsp;
-  [![GitHub](https://img.shields.io/badge/-GitHub-111?style=flat&logo=github "GitHub")](https://github.com/)&nbsp;
+  [![GitLab](https://img.shields.io/badge/-GitLab-111?style=flat&logo=GitLab "GitLab")](https://about.gitlab.com/)&nbsp;
   [![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-111?style=flat&logo=Azure%20DevOps&logoColor=0078D7 "Azure DevOps")](https://azure.microsoft.com/en-us/products/devops)&nbsp; 
   [![Jira](https://img.shields.io/badge/-Jira-111?style=flat&logo=jira "Jira")](https://www.atlassian.com/software/jira)&nbsp;
   
@@ -37,7 +35,9 @@
 #### I'm interested in:
 
 [![Go](https://img.shields.io/badge/-Go-111?style=flat&logo=go "Go")](https://go.dev/)&nbsp;
+[![Python](https://img.shields.io/badge/-Python-111?style=flat&logo=Python "Python")](https://www.python.org/)&nbsp;
 [![Kubernetes](https://img.shields.io/badge/-Kubernetes-111?style=flat&logo=kubernetes&logoColor=326CE5 "Kubernetes")](https://kubernetes.io/)&nbsp;
+[![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-111?style=flat&logo=Rabbitmq "RabbitMQ")](https://www.rabbitmq.com/)&nbsp;
 
 
 
