@@ -19,7 +19,8 @@
   [![C#](https://img.shields.io/badge/-C%23-111?style=flat&logo=csharp&logoColor=239120 "C Sharp")](https://learn.microsoft.com/en-us/dotnet/csharp/)&nbsp; 
   [![.NET](https://img.shields.io/badge/-.NET-111?style=flat&logo=dotnet&logoColor=512BD4 ".NET")](https://dotnet.microsoft.com/en-us/)&nbsp;
   [![MongoDB](https://img.shields.io/badge/-MongoDB-111?style=flat&logo=mongodb "MongoDB")](https://www.mongodb.com/)&nbsp; 
-  [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-111?style=flat&logo=postgresql "PostgreSQL")](https://www.postgresql.org/)&nbsp; <br/>
+  [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-111?style=flat&logo=postgresql "PostgreSQL")](https://www.postgresql.org/)&nbsp; 
+  [![Docker](https://img.shields.io/badge/-Docker-111?style=flat&logo=docker "Docker")](https://www.docker.com/)&nbsp; <br/>
 
 - ##### Other tools such as:
   [![Git](https://img.shields.io/badge/-Git-111?style=flat&logo=git "Git")](https://git-scm.com/)&nbsp;
@@ -30,7 +31,6 @@
 #### I'm learning:
 
   [![Amazon Web Services](https://img.shields.io/badge/-AWS-111?style=flat&logo=amazon%20aws&logoColor=FF9900 "AWS")](https://aws.amazon.com/)&nbsp;
-  [![Docker](https://img.shields.io/badge/-Docker-111?style=flat&logo=docker "Docker")](https://www.docker.com/)&nbsp;
 
 #### I'm interested in:
 
