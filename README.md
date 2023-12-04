@@ -1,6 +1,6 @@
 I'm Lucas, a Software Engineer at [**Zenvia**](https://www.zenvia.com/ "Zenvia Site") and a technology and gaming enthusiast. <br/>
 
-3+ years of programming and learning, with the goal of building a solid career in software development.
+3+ years of programming and learning (1 year professionally), with the goal of building a solid career in software development.
 
 You can get a glimpse of my career path through my [Linkedin profile](https://www.linkedin.com/in/lucas-morais-santos/)
 
