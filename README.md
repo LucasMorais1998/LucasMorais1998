@@ -4,7 +4,7 @@ I'm Lucas, a Software Engineer at [**Zenvia**](https://www.zenvia.com/ "Zenvia S
 
 You can get a glimpse of my career path through my [Linkedin profile](https://www.linkedin.com/in/lucas-morais-santos/)
 
-Here are the technologies I am currently working with:
+Here are the technologies I'm currently working with:
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,nodejs,typescript,express,,mongodb,redis,aws,docker,k8s,kafka&theme=dark&perline=6)](https://skillicons.dev)
 
