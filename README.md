@@ -8,10 +8,11 @@ Here are the technologies I'm currently working with:
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,typescript,java,spring,mongodb,,redis,docker,k8s,kafka,aws&theme=dark&perline=6)](https://skillicons.dev)
 
+<!---
 In addition, I have experience and knowledge in the following technologies:
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,postgres,azure,react,styledcomponents&theme=dark)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,azure,postgres&theme=dark)](https://skillicons.dev)
+--->
 
 <!--START_SECTION:waka-->
 
