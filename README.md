@@ -4,7 +4,7 @@ My goal is to build a solid career in software development, with a focus on spec
 
 You can get a glimpse of my career path through my [Linkedin profile](https://www.linkedin.com/in/lucas-morais-santos/)
 
-Here are the technologies I'm currently working with:
+Here are the technologies I have been working with:
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,typescript,nestjs,java,spring,,mongodb,docker,k8s,kafka,aws&theme=dark&perline=6)](https://skillicons.dev)
 
